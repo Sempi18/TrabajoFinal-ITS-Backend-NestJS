@@ -1,0 +1,16 @@
+users
+id
+password 
+createdAt 
+updatedAt
+email
+role
+
+products
+id
+name
+description
+price
+quantity 
+createdAt
+updatedAt
